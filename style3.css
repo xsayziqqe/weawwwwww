@@ -1,0 +1,39 @@
+.btn {
+    width: 118px;
+    height: 29px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+
+.btn:hover {
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+}
+
+.main_container {
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+}
+
+.container {
+    display: flex;
+
+}
+
+.main_ul {
+font-size: 20px;
+}
+
+.img {
+border-radius: 20%;
+}
+
+.h3 {
+margin-left: 533px;
+font-weight: 100;
+}
